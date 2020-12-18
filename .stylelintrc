@@ -40,8 +40,8 @@
       "declarations"
     ],
     "order/properties-order": [
-      "width",
-      "height"
+      "height",
+      "width"
     ]
   }
 }
