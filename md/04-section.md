@@ -19,3 +19,11 @@ Become a Senior React Developer! Build a massive E-commerce app with Redux, Hook
 63. Quick Note About Github
 64. Update for CRA v4.0.0+ and React 17+
 65. E-commerce Homepage + SASS setup
+66. Project Files + Modules
+67. Project Component Architecture
+68. CSS and SCSS files
+69. Homepage and Directory Components
+70. Styling Menu Items
+71. Updated Google Fonts UI
+72. Quick Note: React 17
+73. React 17: Updating Packages + Latest Version Of React
