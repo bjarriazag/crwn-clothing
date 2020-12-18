@@ -1,0 +1,47 @@
+{
+  "extends": [
+    "stylelint-config-standard",
+    "stylelint-config-sass-guidelines"
+  ],
+  "plugins": [
+    "stylelint-no-browser-hacks/lib",
+    "stylelint-color-format",
+    "stylelint-order"
+  ],
+  "rules": {
+    "indentation": 2,
+    "string-quotes": "double",
+    "no-duplicate-selectors": true,
+    "color-hex-case": "lower",
+    "color-hex-length": "long",
+    "color-named": "never",
+    "property-no-unknown": true,
+    "color-no-invalid-hex": true,
+    "declaration-block-semicolon-newline-after": "always",
+    "max-nesting-depth": [
+      10,
+      {
+        "ignoreAtRules": [
+          "media"
+        ]
+      }
+    ],
+    "plugin/no-browser-hacks": [
+      true,
+      {
+        "browsers": [
+          "last 2 versions",
+          "ie >=8"
+        ]
+      }
+    ],
+    "order/order": [
+      "custom-properties",
+      "declarations"
+    ],
+    "order/properties-order": [
+      "width",
+      "height"
+    ]
+  }
+}
