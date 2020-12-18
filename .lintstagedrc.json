@@ -1,7 +1,10 @@
 {
-  "**/*.+(js|jsx|md|ts|css|sass|less|graphql|yml|yaml|scss|json|vue)": [
+  "**/*.+(js|jsx|md|ts|graphql|yml|yaml|json|vue)": ["prettier --write", "eslint --fix", "git add"],
+  "**/*.+(css|css-in-js|html|less|markdown|sass|scss|sugarss)": [
     "prettier --write",
-    "eslint --fix",
+    "stylelint *.css --fix",
+    "stylelint *.scss --fix",
+    "stylelint *.scss --syntax scss",
     "git add"
   ]
 }
