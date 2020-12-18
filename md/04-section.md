@@ -10,4 +10,12 @@ Become a Senior React Developer! Build a massive E-commerce app with Redux, Hook
 
 ## Content
 
-- #### Section 4 : Master Project: Setting Up E-commerce Project
+### Section 4 : Master Project: Setting Up E-commerce Project
+
+59. The Long Road Ahead
+60. Project Overview
+61. Github + Project Repositories
+62. Course Guideline + Github Links
+63. Quick Note About Github
+64. Update for CRA v4.0.0+ and React 17+
+65. E-commerce Homepage + SASS setup

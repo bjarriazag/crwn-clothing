@@ -3,9 +3,10 @@
     "plugin:react/recommended",
     "airbnb",
     "prettier",
-    "prettier/react"
+    "prettier/react",
+    "plugin:css-modules/recommended"
   ],
-  "plugins": ["react", "prettier"],
+  "plugins": ["react", "prettier", "css-modules"],
   "env": {
     "browser": true,
     "es2021": true
