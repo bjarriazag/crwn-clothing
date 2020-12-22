@@ -14,3 +14,4 @@ Become a Senior React Developer! Build a massive E-commerce app with Redux, Hook
 
 78. Shopping Data
 79. Shop Page
+80. Collection Item
