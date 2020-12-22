@@ -10,6 +10,7 @@ Become a Senior React Developer! Build a massive E-commerce app with Redux, Hook
 
 ## Content
 
-- #### Section 4 : Master Project: Setting Up E-commerce Project
-- #### Section 5 : Master Project: React Router and Routing
-- #### Section 6 : Master Project: Forms + Components
+### Section 6 : Master Project: Forms + Components
+
+78. Shopping Data
+79. Shop Page

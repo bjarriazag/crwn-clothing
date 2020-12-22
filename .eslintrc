@@ -31,6 +31,7 @@
     "node/no-unsupported-features/es-syntax": "off",
     "no-underscore-dangle": "off",
     "no-param-reassign": 0,
-    "consistent-return": "warn"
+    "consistent-return": "warn",
+    "react/jsx-props-no-spreading": "off"
   }
 }
