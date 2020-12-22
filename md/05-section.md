@@ -10,5 +10,7 @@ Become a Senior React Developer! Build a massive E-commerce app with Redux, Hook
 
 ## Content
 
-- #### Section 4 : Master Project: Setting Up E-commerce Project
-- #### Section 5 : Master Project: React Router and Routing
+### Section 5 : Master Project: React Router and Routing
+
+74. Routing In React
+75. Routing In Our Project
