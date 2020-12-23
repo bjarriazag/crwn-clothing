@@ -4,7 +4,6 @@
     "stylelint-config-sass-guidelines"
   ],
   "plugins": [
-    "stylelint-no-browser-hacks/lib",
     "stylelint-color-format",
     "stylelint-order"
   ],
@@ -17,21 +16,15 @@
     "color-named": "never",
     "property-no-unknown": true,
     "color-no-invalid-hex": true,
+    "max-empty-lines": 1,
     "declaration-block-semicolon-newline-after": "always",
+    "selector-no-qualifying-type": null,
+    "scss/at-mixin-pattern": "^[a-z][a-z0-9-_]*[a-z0-9]$",
     "max-nesting-depth": [
       10,
       {
         "ignoreAtRules": [
           "media"
-        ]
-      }
-    ],
-    "plugin/no-browser-hacks": [
-      true,
-      {
-        "browsers": [
-          "last 2 versions",
-          "ie >=8"
         ]
       }
     ],
