@@ -1,0 +1,21 @@
+.custom-button {
+  background-color: #000000;
+  border: 0;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: Open Sans Condensed, Arial, Tahoma, sans-serif;
+  font-size: 15px;
+  font-weight: bolder;
+  height: 50px;
+  letter-spacing: 0.5px;
+  line-height: 50px;
+  min-width: 165px;
+  text-transform: uppercase;
+  width: auto;
+
+  &:hover {
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    color: #000000;
+  }
+}
