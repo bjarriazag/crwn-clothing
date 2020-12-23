@@ -16,3 +16,6 @@ Become a Senior React Developer! Build a massive E-commerce app with Redux, Hook
 79. Shop Page
 80. Collection Item
 81. Header Component
+82. Resources: Importing SVG In React
+83. Introducing Forms In React
+84. Sign In Component

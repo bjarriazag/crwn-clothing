@@ -32,6 +32,7 @@
     "no-underscore-dangle": "off",
     "no-param-reassign": 0,
     "consistent-return": "warn",
-    "react/jsx-props-no-spreading": "off"
+    "react/jsx-props-no-spreading": "off",
+    "jsx-a11y/label-has-associated-control": "off"
   }
 }
